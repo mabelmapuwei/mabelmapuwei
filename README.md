@@ -1,4 +1,4 @@
-#Hi, I am Mabel 👋 
+## Hi, I am Mabel 👋 
 
 With **23 years of experience** in systems analysis, design, and support—primarily within **banking IT**—I’ve built a strong track record of delivering high-impact, reliable solutions for core financial operations. My work has spanned the full software development lifecycle, from requirements gathering to implementation and post-deployment support.
 
@@ -7,7 +7,7 @@ Recently, I completed a **Master’s degree in Information Technology**, majorin
 ## 🛠️ Technical Skills
 
 - **Languages & Tools**: SQL, Excel, Python, R  
-- **BI & Visualization**: Power BI (Microsoft Certified), Streamlit  
+- **BI & Visualization**: Power BI, Streamlit  
 - **Data Science**: Data wrangling, EDA, machine learning, predictive modeling  
 - **Domain Expertise**: Banking Applications Analaysis, design and Interation
 
