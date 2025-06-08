@@ -1,4 +1,4 @@
-# 👋 About Me
+#Hi, I am Mabel 👋 
 
 With **23 years of experience** in systems analysis, design, and support—primarily within **banking IT**—I’ve built a strong track record of delivering high-impact, reliable solutions for core financial operations. My work has spanned the full software development lifecycle, from requirements gathering to implementation and post-deployment support.
 
