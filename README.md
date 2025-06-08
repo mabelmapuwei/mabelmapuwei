@@ -9,7 +9,7 @@ Recently, I completed a **Master’s degree in Information Technology**, majorin
 - **Languages & Tools**: SQL, Excel, Python, R  
 - **BI & Visualization**: Power BI (Microsoft Certified), Streamlit  
 - **Data Science**: Data wrangling, EDA, machine learning, predictive modeling  
-- **Domain Expertise**: Banking systems, financial applications, process optimization
+- **Domain Expertise**: Banking Applications Analaysis, design and Interation
 
 ## 🎯 Current Focus
 
