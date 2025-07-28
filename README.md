@@ -16,11 +16,11 @@ Recently, I completed a **Master’s degree in Information Technology**, majorin
 Transitioning into data analytics and BI, I aim to combine my extensive domain experience with modern data tools to deliver **actionable insights**, improve **decision-making**, and support **strategic initiatives**.
 
 
+## Projects
 
-## 🛠️ Project
-Vehicle Price prediction
-Critical Success Factors for improving Operations on Financial Institutions
-Analysing Police Tweets
+- Vehicle Price prediction: https://github.com/mabelmapuwei/VehiclePricePrediction
+- Critical Success Factors for improving Operations on Financial Institutions: https://github.com/mabelmapuwei/CSFPA 
+- Analysing Police Tweets
 
 ---
 
